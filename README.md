@@ -8,7 +8,7 @@ Algorithms.
 
 ### Flow Chart
 
-![flow chart](images/flow_control.png)
+![flow chart](images/flow_control.jpg)
 
 ### Home Page
 
